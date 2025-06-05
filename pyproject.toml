@@ -1,0 +1,9 @@
+[project]
+name = "usearch-template"
+version = "0.1.0"
+description = "Template for building a usearch-based application."
+requires-python = ">=3.10"
+dependencies = [
+    "numba>=0.61.2",
+    "usearch>=2.17.9",
+]
